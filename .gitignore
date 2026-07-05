@@ -1,0 +1,5 @@
+terraform-basics/terraform-manifests/.terraform
+terraform-basics/terraform-manifests/.terraform.lock.hcl
+/terraform-basics/terraform-manifests/terraform.tfstate
+/terraform-basics/terraform-manifests/terraform.tfstate.backup
+
